@@ -1,0 +1,22 @@
+{
+  "heros": [
+    {
+      "id": 1,
+      "name": "bbbbxxdasdas",
+      "gender": "女",
+      "icon": "/public/images/bounty_hunter_sb.png"
+    },
+    {
+      "id": 2,
+      "name": "difaa",
+      "gender": "男",
+      "icon": "/public/images/antimage_sb.png"
+    },
+    {
+      "name": "lplplpplplplplp",
+      "gender": "女",
+      "icon": "/public/images/lina_sb.png",
+      "id": 3
+    }
+  ]
+}
